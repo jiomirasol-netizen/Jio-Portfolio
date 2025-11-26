@@ -1,8 +1,54 @@
-#black{
-	background-color: gray;
-	  }
+header{
+   background-color: black;
+   color: white;
+   text-align: center;
+   padding: 20px 0;
+      }
 	  
-a{
- background-color: gray;	
- }	  
-	  
+header h1{
+	font-size: 32px;
+	margin-bottom: 10px;
+         }
+		 
+header a{
+	color: white;
+	text-decoration:none;
+	font-size: 16px;
+	font-weight: 500;
+        }
+		
+body{
+	height: 0;
+	padding: 0;
+	margin: 0;
+    } 
+	
+.me h1{
+	font-size: 25px;
+	text-align: center;
+  }
+  
+.me p{
+	font-size: 17px;
+	text-align: center;
+     }
+	 
+.about h1{
+	font-size: 25px;
+	text-align: center;
+         }
+		 
+.about p{
+	 font-size: 17px;
+	text-align: center;
+        }
+		
+.projects h1{
+	font-size: 25px;
+	text-align: center
+            }
+			
+.projects p{
+	font-size: 17px;
+	text-align: center;
+           }
